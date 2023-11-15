@@ -9,5 +9,7 @@ public class Check1 {
 		
 		
 		System.out.println("uncommit");
+	
+		String name  = " Abdullah ";
 	}
 }
